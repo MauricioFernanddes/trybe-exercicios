@@ -1,5 +1,5 @@
 # trybe-exercicios
-Exercicios Git e GitHub PT2
+Exercicios Git e GitHub
 
 # Meu repositório de exercícios
-teste 01
+teste
